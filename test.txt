@@ -1,0 +1,41 @@
+ten
+
+The number ends in 0
+
+220  Yes
+
+221  No
+
+
+eleven
+If the difference of the sum of its digits in odd plce and the sum of 
+its digit in even place strting from ones plce   is riter o  or a multiple 
+of eleven 
+
+1364 (+1−3+6−4 = 0) Yes
+
+913 (+9−1+3 = 11) Yes
+
+3729 (+3−7+2−9 = −11) Yes
+
+987 (+9−8+7 = 8) No
+
+
+Generl Properties of Divisibility 
+
+Property  one  ---  If a number is divisible by another nuber, it must be divisible by ech of the
+factors of that number 
+
+
+ex.   
+
+
+Property two ---   If  a number is divisible by each of two co-prime numbers, It must be divisible 
+by their product 
+
+ex  ---
+
+
+Property three-----   If  a number is a factor of each of the two given numbers.then it must be a fctor
+
+of their sum.  
